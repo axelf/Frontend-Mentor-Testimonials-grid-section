@@ -16,4 +16,4 @@
 
 .prettierignore
 .vscode
-css
+css/*.css*
