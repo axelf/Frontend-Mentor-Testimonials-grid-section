@@ -17,3 +17,4 @@
 .prettierignore
 .vscode
 css/*.css*
+node_modules

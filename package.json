@@ -1,0 +1,24 @@
+{
+  "name": "testimonials-grid-section-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node_modules/.bin/sass --load-path=_sass --style=compressed --watch css/*.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelf/Frontend-Mentor-Testimonials-grid-section.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelf/Frontend-Mentor-Testimonials-grid-section/issues"
+  },
+  "homepage": "https://github.com/axelf/Frontend-Mentor-Testimonials-grid-section#readme",
+  "dependencies": {
+    "sass": "^1.32.12"
+  }
+}
